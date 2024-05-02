@@ -1,0 +1,14 @@
+.container{
+
+    display: flex;
+    justify-content: center;
+    height: 70vh;
+    align-items: center;
+
+}
+
+.list{
+    list-style-type:none;
+    text-decoration: none;
+    line-height: 100px;
+}
